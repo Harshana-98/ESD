@@ -6,5 +6,7 @@ Pizza
 sandwich
 Chicken fry
 
+Carrot
+Cheese
 
 Thank you :)
